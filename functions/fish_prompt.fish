@@ -1,3 +1,5 @@
+
+
 function __user_host
   set -l content 
   if [ (id -u) = "0" ];
